@@ -1,1 +1,1 @@
-# inventory_mgmt_sys
+# inventory_mgmt_list
